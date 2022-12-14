@@ -5,4 +5,4 @@ ________________________________________________________________________________
 
 Name  | Roles
 ------------ | -------------
-[@ndreafaith](https://github.com/andreafaith) | **Owner**
+[@andreafaith](https://github.com/andreafaith) | **Owner**
