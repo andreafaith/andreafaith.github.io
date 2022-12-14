@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 <br />
 
-<img src='https://github.com/Roshankrsoni/Roshankrsoni.github.io/blob/master/pagespeed.png?raw=true' />
+<[![1.png](https://i.postimg.cc/QMNw7vXd/1.png)](https://postimg.cc/sM8Td6Qk) />
 <br />
 
 ## Hands-on Activities for CPE 232: Managing Enterprise Servers
@@ -32,3 +32,4 @@ Name | Title
 [Hands-on Activity 13](https://github.com/andreafaith/CPE232_HOA_13.1_Alimorong.git) | **OpenStack Prerequisite Installation**
 [Hands-on Activity 14](https://github.com/andreafaith/CPE232_HOA_14.1_Alimorong.git) | **OpenStack Installation (Keystone, Glance, Nova)**
 [Hands-on Activity 15](https://github.com/andreafaith/CPE232_HOA_15.1_Alimorong.git) | **OpenStack Installation (Neutron, Horizon, Cinder)**
+[Major Examination](https://github.com/andreafaith/Final_Exam_Alimorong.git) | **Final Examination**
