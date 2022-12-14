@@ -3,6 +3,14 @@
 **Click here to see** [live view](https://andreafaith.github.io/) **of the portfolio**
 ________________________________________________________________________________________
 
+## Portfolio: AndreaFaith: Snippets
+
+<br />
+## Portfolio: AndreaFaith: Snippets
+
+<img src='https://github.com/Roshankrsoni/Roshankrsoni.github.io/blob/master/pagespeed.png?raw=true' />
+<br />
+
 ## Hands-on Activities for CPE 232: Managing Enterprise Servers
 
 Name | Title
