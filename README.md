@@ -7,5 +7,5 @@ ________________________________________________________________________________
 
 Hands-on Activtity  | Title
 ------------ | -------------
-[@andreafaith](https://github.com/andreafaith) | **Owner**
+[Hands-on Activity 0](https://github.com/andreafaith/CPE232_HOA_0_Alimorong.git) | **Owner**
 
