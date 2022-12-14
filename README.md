@@ -1,5 +1,5 @@
-# [live view](https://andreafaith.github.io/)
+# Click here to see [live view](https://andreafaith.github.io/)
 
 Name  | Roles
 ------------ | -------------
-[@RoshanKrSoni](https://github.com/andreafaith) | **Owner**
+[@ndreafaith](https://github.com/andreafaith) | **Owner**
