@@ -1,4 +1,5 @@
 # Andrea Faith Alimorong (Developer Portfolio)
+![Portfolio Ideas banner image](https://ibb.co/xsX30Pp)
 
 **Click here to see** [live view](https://andreafaith.github.io/) **of the portfolio**
 ________________________________________________________________________________________
@@ -6,7 +7,6 @@ ________________________________________________________________________________
 ## Portfolio: AndreaFaith: Snippets
 
 <br />
-## Portfolio: AndreaFaith: Snippets
 
 <img src='https://github.com/Roshankrsoni/Roshankrsoni.github.io/blob/master/pagespeed.png?raw=true' />
 <br />
