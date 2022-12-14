@@ -4,7 +4,7 @@
 ## Click here to see [live view](https://andreafaith.github.io/) of the portfolio
 ________________________________________________________________________________________
 
-## Portfolio: AndreaFaith: Snippets
+# Portfolio: AndreaFaith: Snippets
 
 <br />
 
