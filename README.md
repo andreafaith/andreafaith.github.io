@@ -8,7 +8,12 @@ ________________________________________________________________________________
 
 <br />
 
-<[![1.png](https://i.postimg.cc/QMNw7vXd/1.png)](https://postimg.cc/sM8Td6Qk) />
+[![1.png](https://i.postimg.cc/QMNw7vXd/1.png)](https://postimg.cc/sM8Td6Qk)
+[![2.png](https://i.postimg.cc/xdhrSt2j/2.png)](https://postimg.cc/jWH3H62B)
+[![3.png](https://i.postimg.cc/SsCPb4dV/3.png)](https://postimg.cc/G83KvZZs)
+[![4.png](https://i.postimg.cc/mgKVLqtn/4.png)](https://postimg.cc/sM95KTPP)
+[![5.png](https://i.postimg.cc/pXpDmCbM/5.png)](https://postimg.cc/SJbX5Wxg)
+
 <br />
 
 ## Hands-on Activities for CPE 232: Managing Enterprise Servers
