@@ -1,4 +1,4 @@
-# Roshan Kr Soni (Developer Portfolio)
+# Andrea Faith Alimorong (Developer Portfolio)
 
 ** Click here to see [live view](https://andreafaith.github.io/) **
 ________________________________________________________________________________________
