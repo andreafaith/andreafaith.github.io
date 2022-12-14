@@ -1,7 +1,7 @@
 # Andrea Faith Alimorong (Developer Portfolio)
 [![Black-White-Modern-Architect-Twitter-Header.png](https://i.postimg.cc/sxgdXVY4/Black-White-Modern-Architect-Twitter-Header.png)](https://postimg.cc/7GdQtrQ5)
 
-**Click here to see** [live view](https://andreafaith.github.io/) **of the portfolio**
+# Click here to see [live view](https://andreafaith.github.io/) of the portfolio
 ________________________________________________________________________________________
 
 ## Portfolio: AndreaFaith: Snippets
